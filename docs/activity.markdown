@@ -7,10 +7,24 @@ permalink: /activity/
 
 ![TopImage](/img/10_Top03.png)
 
-## 最終報告レポート(2019年3月)
-- [社会連携講座活動成果の概要:2014～2018](/files/社会連携講座の活動成果2014-2018.pdf)
-- [関連研究の概要:2014～2018](/files/関連研究の概要2014-2018.pdf)
-- [平成30年度の年間活動レポート](/files/H30年間活動レポート.pdf)
+## 第2期の最終報告レポート(2019年3月)
+- 社会連携講座 活動成果の概要:2014年度～2018年度（2019.03） [PDF](/files/社会連携講座の活動成果2014-2018.pdf)
+- 関連研究の概要:2014年度～2018年度（2019.03） [PDF](/files/関連研究の概要2014-2018.pdf)
+- 平成30年度の年間活動レポート（2019.03） [PDF](/files/H30年間活動レポート.pdf)
+
+## 第1期の活動報告レポート
+- 社会連携講座 活動成果の概要：2009年度～2013年度（2014.04）[PDF](/files/社会連携講座第1期の活動成果の概要.pdf)
+- 関連研究の概要：2009年度～2013年度（2014.04）[PDF](/files/researches_2014.pdf)
+
+<!--
+
+- 新道路技術会議 研究報告書1[![linkicon](http://advanced-infra.org/_src/sc2055a/real_col_comment.png)詳細](http://advanced-infra.sblo.jp/article/46707153.html)  
+新道路技術会議　研究報告書2　[![linkicon](http://advanced-infra.org/_src/sc2055a/real_col_comment.png)詳細](http://advanced-infra.sblo.jp/article/46707187.html)  
+新道路技術会議　研究報告書3　[![linkicon](http://advanced-infra.org/_src/sc2055a/real_col_comment.png)詳細](http://advanced-infra.sblo.jp/article/46707201.html)  
+
+--> 
+
+  
 
 ## 研究テーマ
 「情報技術によるインフラ高度化」社会連携講座の共同研究テーマは主に２つです。
