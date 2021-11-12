@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 encoding: UTF-8
 title: 「情報技術によるインフラ高度化」アーカイブサイト
-email: info@basisconsulting.co.jp
+email: mememedian@gmail.com
 description: 
   このページは東京大学大学院情報学環「情報技術によるインフラ高度化」社会連携講座アーカイブサイトです。
 baseurl: "" # the subpath of your site, e.g. /blog
